@@ -10,7 +10,7 @@
 	<a href="#opera--edge"><img src="https://user-images.githubusercontent.com/585534/107280692-ac7b5f00-6a26-11eb-85c7-088926504452.png" alt="Get FadBlock Origin for Opera"></a>
 </p>
 
-<h1 align="center">FadBlock Origin: Friendly Youtube™ Adblock</h1>
+<h1 align="center">AdBlock Youtube™ Adblocker</h1>
 
 
 This was posted over Reddit a few months ago, [Apparently Ad Blockers are not allowed on Youtube. Is this a new thing they've implemented?](https://www.reddit.com/r/youtube/comments/13cfdbi/apparently_ad_blockers_are_not_allowed_on_youtube/?rdt=64832) and judging by all the recent comments and posts all over [r/youtube](https://www.reddit.com/r/youtube/), this change was just rolled out on a **larger scale**.
